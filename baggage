@@ -8,10 +8,10 @@
 	],
 	"author": "James Blades",
 	"dependencies": {
-		"example-core": "1.2"
 	},
 	"devDependencies": {
 	},
+	"repo": "jwkblades@mindy:/git/example.git",
 	"installer": "example.installer.sh",
 	"uninstaller": "example.uninstaller.sh",
 	"license": "MIT"
