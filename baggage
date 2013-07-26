@@ -8,6 +8,25 @@
 	],
 	"author": "James Blades",
 	"dependencies": {
+		"example_dep": 1.0
+	},
+	"devDependencies": {
+	},
+	"repo": "jwkblades@mindy:/git/example.git",
+	"installer": "example.installer.sh",
+	"uninstaller": "example.uninstaller.sh",
+	"license": "MIT"
+},
+{
+	"name": "example_dep",
+	"version": 1.0,
+	"description": "A quick example BAG",
+	"keywords": [
+		"example",
+		"mule"
+	],
+	"author": "James Blades",
+	"dependencies": {
 	},
 	"devDependencies": {
 	},
