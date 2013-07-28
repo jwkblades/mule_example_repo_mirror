@@ -12,7 +12,7 @@
 	},
 	"devDependencies": {
 	},
-	"repo": "jwkblades@mindy:/git/example.git",
+	"repo": "git@github.com:JamesB/mule_example_bag.git",
 	"installer": "example.installer.sh",
 	"uninstaller": "example.uninstaller.sh",
 	"license": "MIT"
@@ -30,7 +30,7 @@
 	},
 	"devDependencies": {
 	},
-	"repo": "jwkblades@mindy:/git/example_dep.git",
+	"repo": "git@github.com:JamesB/mule_example_bag_dep.git",
 	"installer": "example.installer.sh",
 	"uninstaller": "example.uninstaller.sh",
 	"license": "MIT"
